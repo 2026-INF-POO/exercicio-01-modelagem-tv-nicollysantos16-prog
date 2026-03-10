@@ -45,7 +45,8 @@ public class TV {
     }
 
     public static void main(String[] args) {
-        TV minhaTV = new TV();         
+        TV minhaTV = new TV(); 
+        
         minhaTV.polegada = 50;
         minhaTV.voltagem = 220;
         minhaTV.canal = 10;
